@@ -16,7 +16,7 @@ A clean, modern, and professional portfolio website with three pages: Home, Abou
 
 The website is deployed using GitHub Pages and is available live at the following URL:
 
-* **Live URL:** [Paste your GitHub Pages URL here]
+* **Live URL:** [https://katebascript.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/]
 
 ## How to Navigate
 
